@@ -37,3 +37,17 @@
     }
 ```
 > 像String、File、Date..这些类重写了Object类的equals方法，比较的是两个对象的“实体内容”是否完全相同
+
+## 集合
+### Collection
+```
+Collection(接口)：
+   |--------List（接口，有序可重复）
+      |--------ArrayList（主要实现类）；
+      |--------LinkedList（链表结构，底层指针；适合新增删除操作）；
+      |--------Vector（古老的实现类，线程安全，性能低于ArrayList）；
+   |---------Set（接口，存储无序不可重复的元素）
+      |--------HashSet（主要实现类）；
+      |--------LinkedHashSet；
+      |--------TreeSet 
+```
