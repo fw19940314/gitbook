@@ -7,7 +7,7 @@
 
 -----
 * [计算机网络](ABOUT_network.md)
-    * [计算机基础](network/network_basic.md)  
+    * [计算机基础](network/network_basic.md)
 
 -----
 * [Java](ABOUT_JAVA.md)
@@ -39,7 +39,7 @@
 * [消息中间件](ABOUT_MQ.md)
     * [Kafka](mq/kafka.md)
     * [Rabbit](mq/rabbit.md)
-    * [Rocket](mq/rocket.md)  
+    * [Rocket](mq/rocket.md)
 
 -----
 * [搜索引擎](ABOUT_search.md)
@@ -64,7 +64,8 @@
 -----
 * [CI/DI运维](ABOUT_cd.md)
     * [CI/DI](mq/cid.md)
-    
+
 -----
 * [Linux](knowledge.md)
-     * [Linux](linux/linux.md)
+    * [Linux](linux/linux.md)
+
