@@ -1,6 +1,6 @@
 ###Java基本数据类型
 
-[]!(https://github.com/fw19940314/gitbook/blob/master/java/image/1586870476770.jpg?raw=true)
+![](https://github.com/fw19940314/gitbook/blob/master/java/image/1586870476770.jpg?raw=true)
 
 ### equals 和 ==
 
