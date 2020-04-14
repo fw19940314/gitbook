@@ -6,12 +6,12 @@
 #### equals 比较时
 > 1.只能处理引用类型变量；
 2.equals底层任然比较的是两个引用变量的地址值；
+
 ```java
  String str1 = new String("aa");
  String str2 = new String("aa");
  System.out.println(str1==str2)//false(==比较对象时，比较的是地址值)
  System.out.println(str1.equals(str2))//true
- 
  String类重写了equals（）方法
  源码解析
   public boolean equals(Object anObject) {
