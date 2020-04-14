@@ -36,11 +36,13 @@
         return false;
     }
 ```
+
 > 像String、File、Date..这些类重写了Object类的equals方法，比较的是两个对象的“实体内容”是否完全相同
 
 ## 集合
 ### Collection
-```
+
+```json
 Collection(接口)：
    |--------List（接口，有序可重复）
       |--------ArrayList（主要实现类）；
